@@ -1,0 +1,58 @@
+{"t": 67, "type": "move", "x": 0.4932, "y": 0.488}
+{"t": 128, "type": "move", "x": 0.4926, "y": 0.4738}
+{"t": 206, "type": "move", "x": 0.5002, "y": 0.4721}
+{"t": 273, "type": "move", "x": 0.5166, "y": 0.4866}
+{"t": 348, "type": "move", "x": 0.508, "y": 0.5158}
+{"t": 409, "type": "move", "x": 0.523, "y": 0.5221}
+{"t": 474, "type": "move", "x": 0.5349, "y": 0.5089}
+{"t": 517, "type": "move", "x": 0.5564, "y": 0.5187}
+{"t": 582, "type": "move", "x": 0.5621, "y": 0.5098}
+{"t": 667, "type": "move", "x": 0.5646, "y": 0.4974}
+{"t": 745, "type": "move", "x": 0.5818, "y": 0.5217}
+{"t": 789, "type": "move", "x": 0.5776, "y": 0.5146}
+{"t": 861, "type": "move", "x": 0.5951, "y": 0.5086}
+{"t": 923, "type": "move", "x": 0.5999, "y": 0.5194}
+{"t": 1003, "type": "move", "x": 0.5787, "y": 0.4998}
+{"t": 1069, "type": "move", "x": 0.5701, "y": 0.5191}
+{"t": 1129, "type": "move", "x": 0.5777, "y": 0.5096}
+{"t": 1223, "type": "move", "x": 0.5684, "y": 0.5003}
+{"t": 1313, "type": "move", "x": 0.5996, "y": 0.4948}
+{"t": 1372, "type": "move", "x": 0.6013, "y": 0.4952}
+{"t": 1437, "type": "move", "x": 0.6011, "y": 0.5143}
+{"t": 1492, "type": "move", "x": 0.6326, "y": 0.4855}
+{"t": 1538, "type": "move", "x": 0.6469, "y": 0.4911}
+{"t": 1617, "type": "move", "x": 0.6688, "y": 0.4936}
+{"t": 1661, "type": "move", "x": 0.6795, "y": 0.4902}
+{"t": 1730, "type": "move", "x": 0.6584, "y": 0.4826}
+{"t": 1800, "type": "move", "x": 0.6613, "y": 0.4776}
+{"t": 1875, "type": "move", "x": 0.6586, "y": 0.4837}
+{"t": 1937, "type": "move", "x": 0.6562, "y": 0.4477}
+{"t": 2010, "type": "move", "x": 0.6695, "y": 0.4358}
+{"t": 2058, "type": "move", "x": 0.6769, "y": 0.4363}
+{"t": 2121, "type": "move", "x": 0.6834, "y": 0.4246}
+{"t": 2177, "type": "move", "x": 0.6767, "y": 0.4139}
+{"t": 2256, "type": "move", "x": 0.6941, "y": 0.4084}
+{"t": 2323, "type": "move", "x": 0.7268, "y": 0.4041}
+{"t": 2383, "type": "move", "x": 0.7368, "y": 0.4187}
+{"t": 2448, "type": "move", "x": 0.7425, "y": 0.4141}
+{"t": 2498, "type": "move", "x": 0.7467, "y": 0.4305}
+{"t": 2551, "type": "move", "x": 0.7537, "y": 0.4062}
+{"t": 2617, "type": "move", "x": 0.7606, "y": 0.4266}
+{"t": 3016, "type": "click", "x": 0.7529, "y": 0.421, "button": 0}
+{"t": 3431, "type": "click", "x": 0.742, "y": 0.4343, "button": 0}
+{"t": 3798, "type": "click", "x": 0.7295, "y": 0.4411, "button": 0}
+{"t": 4206, "type": "click", "x": 0.7234, "y": 0.4398, "button": 0}
+{"t": 4594, "type": "click", "x": 0.7233, "y": 0.4517, "button": 0}
+{"t": 4969, "type": "click", "x": 0.7325, "y": 0.4558, "button": 0}
+{"t": 5867, "type": "text", "arrival": "inserted", "value": "<BS>"}
+{"t": 6170, "type": "text", "arrival": "inserted", "value": "word0"}
+{"t": 7052, "type": "text", "arrival": "inserted", "value": "word1"}
+{"t": 7920, "type": "text", "arrival": "inserted", "value": "<BS>"}
+{"t": 8210, "type": "text", "arrival": "inserted", "value": "word2"}
+{"t": 9117, "type": "text", "arrival": "inserted", "value": "word3"}
+{"t": 9978, "type": "text", "arrival": "inserted", "value": "word4"}
+{"t": 10856, "type": "text", "arrival": "inserted", "value": "word0"}
+{"t": 11777, "type": "text", "arrival": "inserted", "value": "word1"}
+{"t": 12650, "type": "text", "arrival": "inserted", "value": "word2"}
+{"t": 13530, "type": "text", "arrival": "inserted", "value": "word3"}
+{"t": 14418, "type": "text", "arrival": "inserted", "value": "word4"}

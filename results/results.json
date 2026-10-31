@@ -1,0 +1,197 @@
+{
+  "threshold": 3.5,
+  "feature_names": [
+    "move_speed_mean",
+    "move_speed_std",
+    "click_iv_mean",
+    "click_iv_std",
+    "text_iv_mean",
+    "text_iv_std",
+    "corrections",
+    "tortuosity",
+    "pause_ratio",
+    "n_typed",
+    "n_onscreen",
+    "n_inserted",
+    "n_moves",
+    "n_clicks",
+    "n_text"
+  ],
+  "swap_test_passed": true,
+  "standard__owner": {
+    "decisions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "scores": [
+      3.504,
+      2.92,
+      3.495,
+      3.498,
+      3.607,
+      2.701,
+      2.865,
+      2.497
+    ]
+  },
+  "standard__tired_owner": {
+    "decisions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "scores": [
+      14.082,
+      9.306,
+      8.79,
+      7.64,
+      15.91,
+      7.079,
+      15.76,
+      10.594
+    ]
+  },
+  "standard__stranger": {
+    "decisions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "scores": [
+      6.789,
+      6.773,
+      7.559,
+      6.774,
+      7.576,
+      6.935,
+      7.685,
+      7.874
+    ]
+  },
+  "standard__mimic": {
+    "decisions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "scores": [
+      8.624,
+      7.122,
+      7.1,
+      7.079,
+      6.685,
+      6.933,
+      14.899,
+      8.633
+    ]
+  },
+  "slow_dictation__owner": {
+    "decisions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "scores": [
+      2.132,
+      3.047,
+      3.103,
+      1.391,
+      2.488,
+      4.79,
+      2.869,
+      4.152
+    ]
+  },
+  "slow_dictation__tired_owner": {
+    "decisions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "scores": [
+      10.51,
+      12.299,
+      11.798,
+      12.875,
+      7.71,
+      15.152,
+      10.595,
+      9.073
+    ]
+  },
+  "slow_dictation__stranger": {
+    "decisions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "scores": [
+      6.828,
+      8.058,
+      8.511,
+      8.202,
+      8.943,
+      12.517,
+      8.149,
+      7.153
+    ]
+  },
+  "slow_dictation__mimic": {
+    "decisions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "scores": [
+      3.728,
+      3.861,
+      6.438,
+      4.538,
+      4.075,
+      4.709,
+      3.952,
+      4.129
+    ]
+  }
+}

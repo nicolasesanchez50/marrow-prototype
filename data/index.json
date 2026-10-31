@@ -1,0 +1,450 @@
+[
+  {
+    "id": "standard__owner__00",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__00.jsonl"
+  },
+  {
+    "id": "standard__owner__01",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__01.jsonl"
+  },
+  {
+    "id": "standard__owner__02",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__02.jsonl"
+  },
+  {
+    "id": "standard__owner__03",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__03.jsonl"
+  },
+  {
+    "id": "standard__owner__04",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__04.jsonl"
+  },
+  {
+    "id": "standard__owner__05",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__05.jsonl"
+  },
+  {
+    "id": "standard__owner__06",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__06.jsonl"
+  },
+  {
+    "id": "standard__owner__07",
+    "style": "standard",
+    "user_type": "owner",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/standard__owner__07.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__00",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__00.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__01",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__01.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__02",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__02.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__03",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__03.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__04",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__04.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__05",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__05.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__06",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__06.jsonl"
+  },
+  {
+    "id": "standard__tired_owner__07",
+    "style": "standard",
+    "user_type": "tired_owner",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/standard__tired_owner__07.jsonl"
+  },
+  {
+    "id": "standard__stranger__00",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__00.jsonl"
+  },
+  {
+    "id": "standard__stranger__01",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__01.jsonl"
+  },
+  {
+    "id": "standard__stranger__02",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__02.jsonl"
+  },
+  {
+    "id": "standard__stranger__03",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__03.jsonl"
+  },
+  {
+    "id": "standard__stranger__04",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__04.jsonl"
+  },
+  {
+    "id": "standard__stranger__05",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__05.jsonl"
+  },
+  {
+    "id": "standard__stranger__06",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__06.jsonl"
+  },
+  {
+    "id": "standard__stranger__07",
+    "style": "standard",
+    "user_type": "stranger",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/standard__stranger__07.jsonl"
+  },
+  {
+    "id": "standard__mimic__00",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__00.jsonl"
+  },
+  {
+    "id": "standard__mimic__01",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__01.jsonl"
+  },
+  {
+    "id": "standard__mimic__02",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__02.jsonl"
+  },
+  {
+    "id": "standard__mimic__03",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__03.jsonl"
+  },
+  {
+    "id": "standard__mimic__04",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__04.jsonl"
+  },
+  {
+    "id": "standard__mimic__05",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__05.jsonl"
+  },
+  {
+    "id": "standard__mimic__06",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__06.jsonl"
+  },
+  {
+    "id": "standard__mimic__07",
+    "style": "standard",
+    "user_type": "mimic",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/standard__mimic__07.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__00",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__00.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__01",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__01.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__02",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__02.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__03",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__03.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__04",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__04.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__05",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__05.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__06",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__06.jsonl"
+  },
+  {
+    "id": "slow_dictation__owner__07",
+    "style": "slow_dictation",
+    "user_type": "owner",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__owner__07.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__00",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__00.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__01",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__01.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__02",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__02.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__03",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__03.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__04",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__04.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__05",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__05.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__06",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__06.jsonl"
+  },
+  {
+    "id": "slow_dictation__tired_owner__07",
+    "style": "slow_dictation",
+    "user_type": "tired_owner",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__tired_owner__07.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__00",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__00.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__01",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__01.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__02",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__02.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__03",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__03.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__04",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__04.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__05",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__05.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__06",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__06.jsonl"
+  },
+  {
+    "id": "slow_dictation__stranger__07",
+    "style": "slow_dictation",
+    "user_type": "stranger",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__stranger__07.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__00",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 0,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__00.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__01",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 1,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__01.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__02",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 2,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__02.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__03",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 3,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__03.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__04",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 4,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__04.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__05",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 5,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__05.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__06",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 6,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__06.jsonl"
+  },
+  {
+    "id": "slow_dictation__mimic__07",
+    "style": "slow_dictation",
+    "user_type": "mimic",
+    "k": 7,
+    "path": "/tmp/scratchpad/marrow/data/slow_dictation__mimic__07.jsonl"
+  }
+]
